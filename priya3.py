@@ -1,0 +1,9 @@
+nums=[1,2,5,3]
+nums.remove(2)
+print(nums)
+print(nums.pop())
+print(nums.index(5))
+print(nums.count(2))
+nums.sort()
+nums.reverse()
+print(nums)
